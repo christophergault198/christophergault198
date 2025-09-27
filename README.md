@@ -1,13 +1,13 @@
 # Hi, I'm Christopher Gault
 
 **Additive Manufacturing Technician**  
-Specializing in Additive Manufacturing Software
+Specializing in Additive Manufacturing Software as a hobby
 
 ---
 
-- 🚀 Experience with Rocket Lab Archimedes & Rutherford Engine development and production
+- 🚀 Worked in aerospace. Experience with Rocket Lab Archimedes & Rutherford Engine development and production and other aerospace companies.
 - 🖨️ Over a decade of hands-on 3D printing expertise
-- 💻 Building solutions for additive manufacturing
+- 💻 Building hobbyiest solutions for additive manufacturing
 
 ## Featured Projects (mostly private, request for access.)
 - [LightRay Slicer](https://github.com/christophergault198/LightRaySlicer)
