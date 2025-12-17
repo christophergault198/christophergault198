@@ -10,6 +10,7 @@ Specializing in Additive Manufacturing Software as a hobby
 - 💻 Building hobbyiest solutions for additive manufacturing
 
 ## Featured Projects (mostly private, request for access.)
+- [evoSync](https://github.com/christophergault198/evoSync-release)
 - [LightRay Slicer](https://github.com/christophergault198/LightRaySlicer)
 - [LightRay Build Server](https://github.com/christophergault198/LightRayBuildServer)
 - [UltiUI](https://github.com/christophergault198/UltiUI)
